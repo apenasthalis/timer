@@ -18,8 +18,7 @@ body{
     width: 100%;
     height: 15vh;
     display: flex;
-    justify-content: center;
-    gap: 1rem;
+    justify-content: space-around;
 }
 
 .icons{
@@ -36,7 +35,6 @@ body{
 }
 
 .imgss{
-    margin-left: 10rem;
     width: 1.5rem;
     height: 1.5rem;
 }
